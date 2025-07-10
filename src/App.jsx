@@ -7,7 +7,7 @@ function App() {
   <div className="App">
     <div className="Body">
       <h1>Omole Daniel</h1>
-      <h2>Software Engineer & Mobile Develoer</h2>
+      <h2>Software Engineer, Mobile Develoer & Web Developer</h2>
       <p>
         I am a software engineer with a passion for building scalable web and mobile applications.
         I have experience in various programming languages and frameworks, and I love to learn new technologies.
