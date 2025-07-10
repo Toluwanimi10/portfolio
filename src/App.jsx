@@ -19,7 +19,7 @@ function App() {
     </div>
 
     <div className="Image">
-      <img src="/Images/photo1.jpeg" alt="Omole Daniel" className="hero-image" />
+      <img src="/Images/Mypicture.jpeg" alt="Omole Daniel" className="hero-image" />
     </div>
   </div>
 
